@@ -1,4 +1,5 @@
 [submodule "batsubmodule"]
 	path = batsubmodule
 	url = https://github.com/coolkenshin/batsubmodule.git
+	update = checkout
 	branch = branch2.0
